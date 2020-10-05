@@ -1,0 +1,21 @@
+target
+dist/
+*.xcuserdatad/
+# macOS
+.DS_Store
+*.DS_Store
+/.idea/*
+.vscode
+*.swp
+*.iml
+ditto-2019-09-16.sec
+temp
+DEPENDENCY_LICENSES*
+.gradle
+.vs/
+packages/
+*.suo
+.idea
+.sln.DotSettings.user
+package-lock.json
+Pods/
